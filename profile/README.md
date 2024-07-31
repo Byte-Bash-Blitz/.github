@@ -9,4 +9,4 @@ This GitHub organization will accomodate the following community activities,
 - Host Wiki's about program activities
 - Discussions on program activities*
 
-`* Not to be confuses with Discord sever which is primary source of communication for the community, GitHub discussion track support discussions.`
+`* Not to be confused with Discord sever which is primary source of communication for the community, GitHub discussion track support discussions.`
