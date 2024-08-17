@@ -10,7 +10,7 @@ This GitHub organization will accomodate the following community activities,
 ## Important Note:
 - Only Organization owners have permission to do everything in the Organization
 - Teams are ways to manage groups of people in Organization.
-- Teams can have permissions, but it's for individual repository or project.
+- Teams can have permissions, but it's for individual repository or project, except some default teams.
 <details>
 <summary>Who are these owners, people with permission across Organization ?</summary>
   1. Stella Mary's Enterprise Admin <br />
