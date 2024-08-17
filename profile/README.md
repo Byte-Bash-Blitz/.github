@@ -7,3 +7,14 @@ This GitHub organization will accomodate the following community activities,
 - Templates for Event and Activity Reports
 - Track Quarterly and Semester Milestones
 
+## Important Note:
+- Only Organization owners have permission to do everything in the Organization
+<details>
+<summary>Who are these owners, people with permission across Organization ?</summary>
+  1. Stella Mary's Enterprise Admin <br />
+  2. Industrial Organization Administration Advisor - Former IT Operations <br />
+  3. Anyone Appointed by Enterprise or Community to Admistration <br />
+  4. Current IT Operations Organizer of Byte-Bash-Blitz👊 <br />
+</details>
+- Teams are ways to manage groups of people in Organization.
+- Teams can have permissions, but it's for individual repository or project.
