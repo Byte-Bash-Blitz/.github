@@ -5,8 +5,7 @@
 This GitHub organization will accomodate the following community activities,
 - Repositories of Community Projects
 - Templates for Event and Activity Reports
-- Track Quarterly and Semester Milestones
-
+  
 ## Important Note:
 - Only Organization owners have permission to do everything in the Organization
 - Teams are ways to manage groups of people in Organization.
