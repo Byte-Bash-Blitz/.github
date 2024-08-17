@@ -7,6 +7,3 @@ This GitHub organization will accomodate the following community activities,
 - Templates for Event and Activity Reports
 - Track Quarterly and Semester Milestones
 
-| This Specific repo also serves as the home for Community wide issues and projects.
-
-
