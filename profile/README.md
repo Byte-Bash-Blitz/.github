@@ -5,6 +5,7 @@
 This GitHub organization will accomodate the following community activities,
 - Repositories of Community Projects
 - Templates for Event and Activity Reports
+- Track Community projects
   
 ## Important Note:
 - Only Organization owners have permission to do everything in the Organization
